@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './task1/App';
 import reportWebVitals from './reportWebVitals';
+import fetchAllOrders from './task2/ecommerce';
 
 ReactDOM.render(
   <React.StrictMode>
